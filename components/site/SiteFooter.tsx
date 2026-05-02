@@ -120,8 +120,8 @@ export async function SiteFooter() {
                 </a>
               </div>
               <div>
-                <a href="mailto:cnwmax@gmail.com" className="hover:text-[#ffb5a0]">
-                  cnwmax@gmail.com
+                <a href="mailto:SCNWMax@gmail.com" className="hover:text-[#ffb5a0]">
+                  SCNWMax@gmail.com
                 </a>
               </div>
             </div>
@@ -206,3 +206,4 @@ export async function SiteFooter() {
     </>
   );
 }
+
