@@ -16,6 +16,8 @@
 # next.js
 /.next/
 /out/
+tsconfig.tsbuildinfo
+*.tsbuildinfo
 
 # production
 /build

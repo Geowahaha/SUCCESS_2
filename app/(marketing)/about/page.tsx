@@ -6,7 +6,7 @@ import { STITCH_ROUTE_SLUGS } from "@/lib/stitch/manifest";
 export const metadata: Metadata = {
   title: `About | ${siteConfig.fullName}`,
   description:
-    "Suphancasting — facility and company information (Stitch design preview).",
+    "Success Casting — facility and company information (Stitch design preview).",
 };
 
 export default function AboutPage() {

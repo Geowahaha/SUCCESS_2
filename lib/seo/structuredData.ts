@@ -3,7 +3,7 @@ import { siteConfig } from "./site";
 
 export function buildOrganizationJsonLd(): JsonLd {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/+$/, "") ?? "";
-  const urlBase = siteUrl || "https://suphancasting.com";
+  const urlBase = siteUrl || "https://successcasting.com";
 
   return {
     "@context": "https://schema.org",

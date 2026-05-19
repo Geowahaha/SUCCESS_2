@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: "Suphancasting",
-  fullName: "Suphancasting.com",
-  defaultTitle: "Steel Casting Thailand | OEM Casting Parts | Suphancasting",
+  name: "Success Casting",
+  fullName: "Successcasting.com",
+  defaultTitle: "Success Casting | งานหล่อทรายและชิ้นส่วนเครื่องจักร",
   defaultDescription:
-    "Suphancasting is a metal casting and steel casting factory in Thailand offering OEM casting parts, quality control, and fast lead times. Request an RFQ for quotations.",
+    "Success Casting รับผลิตงานหล่อทราย ชิ้นส่วนเครื่องจักร SUC Pulley และงานตามแบบจากวัสดุ FC25, FCD, SC46, S45C, Mo4140 ติดต่อ LINE @SCNW.",
   defaultOgImage: "/og-default.png",
-  twitterHandle: "@suphancasting",
+  twitterHandle: "@SCNW",
   keywords: [
     "steel casting Thailand",
     "metal casting factory",

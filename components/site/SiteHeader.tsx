@@ -48,7 +48,7 @@ export async function SiteHeader() {
         <Link
           href={withLang("/", locale)}
           className="flex shrink-0 items-center gap-2 sm:gap-3"
-          aria-label="Suphan Casting"
+          aria-label="Success Casting"
         >
           <div className="rounded-sm bg-[#FF4500] px-1.5 py-0.5 font-forge-headline text-lg font-black leading-none text-white shadow-[0_0_10px_rgba(255,69,0,0.45)] sm:px-2 sm:py-1 sm:text-xl">
             SC

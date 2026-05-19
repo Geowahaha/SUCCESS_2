@@ -1,7 +1,7 @@
 import { STITCH_PAGES } from "@/lib/stitch/manifest";
 
 function safeBaseUrl() {
-  const url = process.env.NEXT_PUBLIC_SITE_URL ?? "https://suphancasting.com";
+  const url = process.env.NEXT_PUBLIC_SITE_URL ?? "https://successcasting.com";
   return url.replace(/\/+$/, "");
 }
 
